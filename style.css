@@ -157,3 +157,11 @@ input[type="text"]:focus {
         transform: translateY(0);
     }
 }
+img {
+    width: 80px;
+    height: 8g0px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+}
+
